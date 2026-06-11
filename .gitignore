@@ -44,3 +44,4 @@ backups/
 
 # Trivy reports (archived in Jenkins, not in git)
 trivy-reports/
+docs/screenshots/post/
