@@ -26,6 +26,9 @@ git push → GitHub Webhook → Jenkins Pipeline
 
 ## Architecture
 
+![Pipeline Architecture](docs/screenshots/day15/pipeline-diagram-visual.png)
+
+
 See interactive Mermaid diagrams: [docs/architecture.md](docs/architecture.md)
 
 ```
